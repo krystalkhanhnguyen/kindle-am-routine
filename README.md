@@ -1,2 +1,2 @@
 # kindle-am-routine
-My PM skincare timer
+My AM skincare timer
